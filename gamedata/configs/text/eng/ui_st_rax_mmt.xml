@@ -3,11 +3,11 @@
 
 	
     <string id="ui_mcm_menu_rax_mmt">
-        <text>MinMap Toggle</text>
+        <text>Mini Map Toggle</text>
     </string>
 
 	<string id="ui_mcm_rax_mmt_keybind">
-		<text>MinMap Toggle key.</text>
+		<text>Mini Map Toggle key.</text>
 	</string>
 
 	<string id="ui_mcm_rax_mmt_keybind_desc">
